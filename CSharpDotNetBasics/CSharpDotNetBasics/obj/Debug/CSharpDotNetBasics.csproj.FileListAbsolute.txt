@@ -1,0 +1,8 @@
+C:\C# examples\CSharpDotNetBasics\CSharpDotNetBasics\bin\Debug\CSharpDotNetBasics.exe.config
+C:\C# examples\CSharpDotNetBasics\CSharpDotNetBasics\bin\Debug\CSharpDotNetBasics.exe
+C:\C# examples\CSharpDotNetBasics\CSharpDotNetBasics\bin\Debug\CSharpDotNetBasics.pdb
+C:\C# examples\CSharpDotNetBasics\CSharpDotNetBasics\obj\Debug\CSharpDotNetBasics.csproj.AssemblyReference.cache
+C:\C# examples\CSharpDotNetBasics\CSharpDotNetBasics\obj\Debug\CSharpDotNetBasics.csproj.SuggestedBindingRedirects.cache
+C:\C# examples\CSharpDotNetBasics\CSharpDotNetBasics\obj\Debug\CSharpDotNetBasics.csproj.CoreCompileInputs.cache
+C:\C# examples\CSharpDotNetBasics\CSharpDotNetBasics\obj\Debug\CSharpDotNetBasics.exe
+C:\C# examples\CSharpDotNetBasics\CSharpDotNetBasics\obj\Debug\CSharpDotNetBasics.pdb
