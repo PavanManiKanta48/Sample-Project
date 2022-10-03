@@ -1,0 +1,8 @@
+C:\C#examples\OOPS PROJECTS\Interface\Interface\bin\Debug\Interface.exe.config
+C:\C#examples\OOPS PROJECTS\Interface\Interface\bin\Debug\Interface.exe
+C:\C#examples\OOPS PROJECTS\Interface\Interface\bin\Debug\Interface.pdb
+C:\C#examples\OOPS PROJECTS\Interface\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+C:\C#examples\OOPS PROJECTS\Interface\Interface\obj\Debug\Interface.csproj.SuggestedBindingRedirects.cache
+C:\C#examples\OOPS PROJECTS\Interface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\C#examples\OOPS PROJECTS\Interface\Interface\obj\Debug\Interface.exe
+C:\C#examples\OOPS PROJECTS\Interface\Interface\obj\Debug\Interface.pdb

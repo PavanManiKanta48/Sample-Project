@@ -1,0 +1,8 @@
+C:\C#examples\OOPS PROJECTS\ExtensionMethod\ExtensionMethod\bin\Debug\ExtensionMethod.exe.config
+C:\C#examples\OOPS PROJECTS\ExtensionMethod\ExtensionMethod\bin\Debug\ExtensionMethod.exe
+C:\C#examples\OOPS PROJECTS\ExtensionMethod\ExtensionMethod\bin\Debug\ExtensionMethod.pdb
+C:\C#examples\OOPS PROJECTS\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.csproj.AssemblyReference.cache
+C:\C#examples\OOPS PROJECTS\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.csproj.SuggestedBindingRedirects.cache
+C:\C#examples\OOPS PROJECTS\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.csproj.CoreCompileInputs.cache
+C:\C#examples\OOPS PROJECTS\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.exe
+C:\C#examples\OOPS PROJECTS\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.pdb
